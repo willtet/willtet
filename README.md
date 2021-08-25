@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, I'm Willian Takashi! 👋
+
+I'm studying to work a back-end developer!
+
+Programming since 2012, creating web sites (making fancy design is not my best quality), Android Apps and making simple API~
+And I'm always learning someting new, growing up as a developer practicing everday and reading good books 
+
+
+## What I'm practicing ✨
+ - Java (Spring boot/Android)
+ - Javascript (Node)
 
 <!--
 **willtet/willtet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
