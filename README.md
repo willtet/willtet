@@ -6,7 +6,7 @@ Programming since 2012, creating web sites (making fancy design is not my best q
 And I'm always learning someting new, growing up as a developer practicing everday and reading good books 
 
 
-## What I'm practicing ✨
+## What I'm studying ✨
  - Java (Spring boot/Android)
  - Javascript (Node)
 
