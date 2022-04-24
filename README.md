@@ -7,8 +7,9 @@ And I'm always learning someting new, growing up as a developer practicing everd
 
 
 ## What I'm studying ✨
- - Java (Spring boot/Android)
- - Javascript (Node)
+ - Backend - Java (Spring boot)
+ - Frontend - JS (Angular)
+ - Mobile - Flutter
 
 <!--
 **willtet/willtet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
