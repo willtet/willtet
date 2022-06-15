@@ -7,7 +7,7 @@ And I'm always learning someting new, growing up as a developer practicing everd
 
 
 ## What I'm studying ✨
- - Backend - Java (Spring boot)
+ - Backend - Java (Spring boot) / JS (Node)
  - Frontend - JS (Angular)
  - Mobile - Flutter
 
